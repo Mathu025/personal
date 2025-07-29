@@ -2,7 +2,7 @@ import React from 'react'
 
 const ComingSoon = () => {
   return (
-    <div>ComingSoon</div>
+    <h1>Coming Soon...</h1>
   )
 }
 

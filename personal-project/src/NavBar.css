@@ -13,15 +13,22 @@
     padding: 10px;
 }
 
+.one {
+    transition: all 0.2s ease;
+}
+
 .one:hover {
     background-color: red;
-    border: 2px;
+    border: 1px solid black;
     border-radius: 5px;
     padding: 5px;
 }
 
-.one:active {
+.active {
     background-color: yellow;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
 }
 
 .header {
